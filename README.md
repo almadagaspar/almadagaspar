@@ -7,7 +7,8 @@ I am currently looking to be part of a team that creates technological solutions
 
 ## 🛠 Technologies
 <ul>
-    <li>HTML & CSS</li>
+    <li>HTML</li>
+    <li>CSS</li>
     <li>Javascript</li>
     <li>React</li>
     <li>Redux</li>
@@ -17,8 +18,11 @@ I am currently looking to be part of a team that creates technological solutions
     <li>PostgreSQL</li>
     <li>SQL</li>
     <li>Git</li>
-
 </ul>
+
+
+
+
 
 <!--
 **almadagaspar/almadagaspar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
