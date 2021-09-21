@@ -21,7 +21,11 @@ I am currently looking to be part of a team that creates technological solutions
 </ul>
 
 
-
+<p>
+<img width='350px' src='https://github.com/almadagaspar/almadagaspar/images/Bodegas.jpg.png' alt=''/>
+<img width='350px' src='https://github.com/almadagaspar/almadagaspar/images/Calculadora.jpg' alt=''/>
+<img width='350px' src='https://github.com/almadagaspar/almadagaspar/images/Food.jpg' alt=''/>
+</p>
 
 
 <!--
