@@ -19,13 +19,12 @@ I am currently looking to be part of a team that creates technological solutions
     <li>SQL</li>
     <li>Git</li>
 </ul>
+<br />
 
 
-<p>
-<img width='350px' src='https://github.com/almadagaspar/almadagaspar/images/Bodegas.jpg.png' alt=''/>
-<img width='350px' src='https://github.com/almadagaspar/almadagaspar/images/Calculadora.jpg' alt=''/>
-<img width='350px' src='https://github.com/almadagaspar/almadagaspar/images/Food.jpg' alt=''/>
-</p>
+<img width='350px' src='https://github.com/almadagaspar/almadagaspar/blob/main/images/Bodegas.jpg' alt=''/>
+<img width='350px' src='https://github.com/almadagaspar/almadagaspar/blob/main/images/Food.jpg' alt=''/>
+<img width='350px' src='https://github.com/almadagaspar/almadagaspar/blob/main/images/Calculadora.jpg' alt=''/>
 
 
 <!--
