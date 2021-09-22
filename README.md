@@ -23,7 +23,7 @@ I am currently looking to be part of a team that creates technological solutions
 <img width='600px' src='https://github.com/almadagaspar/almadagaspar/blob/main/images/Bodegas.jpg' alt=''/>
 <p>Group project of an E-commerce with a beverage sales theme, carried out at the SoyHenry bootcamp.</p>
 <p>Technologies I used in this project:</p>
-<p>𝗦𝗲𝗾𝘂𝗲𝗹𝗶𝘇𝗲 | 𝗣𝗼𝘀𝘁𝗴𝗿𝗲𝗦𝗤𝗟 | 𝗡𝗼𝗱𝗲.𝗷𝘀 | 𝗘𝘅𝗽𝗿𝗲𝘀𝘀.𝗷𝘀</p>
+<p>𝗦𝗲𝗾𝘂𝗲𝗹𝗶𝘇𝗲 | 𝗣𝗼𝘀𝘁𝗴𝗿𝗲𝗦𝗤𝗟 | 𝗡𝗼𝗱𝗲.𝗷𝘀 | 𝗘𝘅𝗽𝗿𝗲𝘀𝘀.𝗷𝘀 | 𝗚𝗶𝘁 | 𝗚𝗶𝘁𝗛𝘂𝗯</p>
 <br />
 <br />
 <br />
