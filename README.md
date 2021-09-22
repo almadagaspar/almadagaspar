@@ -7,11 +7,7 @@ I am currently looking to be part of a team that creates technological solutions
 
 <h2>Technologies</h2>
 <ul>
-    <li>HTML</li>
-    <li>CSS</li>
     <li>Javascript</li>
-    <li>React</li>
-    <li>Redux</li>
     <li>Node JS</li>
     <li>Express</li>
     <li>Sequelize</li>
