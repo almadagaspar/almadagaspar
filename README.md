@@ -39,7 +39,7 @@ I am currently looking to be part of a team that creates technological solutions
 <br />
 <br />
 <br />
-<h3>Calculadora - React + Redux</h3>
+<h3>Calculadora - React & Redux</h3>
 <img width='600px' src='https://github.com/almadagaspar/almadagaspar/blob/main/images/Calculadora.jpg' alt=''/>
 <p>Calculator with the four basic operations, developed to consolidate the main technologies learned up to the second module in the SoyHenry bootcamp.</p>
 
