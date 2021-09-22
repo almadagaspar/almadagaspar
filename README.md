@@ -18,6 +18,7 @@ I am currently looking to be part of a team that creates technological solutions
     <li>PostgreSQL</li>
     <li>SQL</li>
     <li>Git</li>
+    <li>GitHub</li>
 </ul>
 <br />
 <br />
